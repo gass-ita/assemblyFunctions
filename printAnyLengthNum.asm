@@ -17,7 +17,7 @@ start:
     mov ds, ax
     mov es, ax
 
-    ;Sommare tutti gli elementi di un vettore e metterli in una variabile
+    
     mov ax, 10410
     mov cx, 0
     xor bx,bx
